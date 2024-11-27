@@ -17,9 +17,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/ratnakar giri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ratnakar giri" height="30" width="40" /></a>
 <a href="https://instagram.com/ratnakar755" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ratnakar755" height="30" width="40" /></a>
-<a href="https://medium.com/ratnakar giri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="ratnakar giri" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@ratnakargiri973" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@ratnakargiri973" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ratnakar giri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ratnakar giri" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
